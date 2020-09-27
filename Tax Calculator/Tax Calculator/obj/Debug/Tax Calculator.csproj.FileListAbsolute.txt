@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Tax Calculator\Tax Calculator\bin\Debug\Tax Calculator.exe.config
+C:\Users\user\source\repos\Tax Calculator\Tax Calculator\bin\Debug\Tax Calculator.exe
+C:\Users\user\source\repos\Tax Calculator\Tax Calculator\bin\Debug\Tax Calculator.pdb
+C:\Users\user\source\repos\Tax Calculator\Tax Calculator\obj\Debug\Tax_Calculator.Properties.Resources.resources
+C:\Users\user\source\repos\Tax Calculator\Tax Calculator\obj\Debug\Tax Calculator.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Tax Calculator\Tax Calculator\obj\Debug\Tax Calculator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Tax Calculator\Tax Calculator\obj\Debug\Tax Calculator.exe
+C:\Users\user\source\repos\Tax Calculator\Tax Calculator\obj\Debug\Tax Calculator.pdb
+C:\Users\user\source\repos\Tax Calculator\Tax Calculator\obj\Debug\Tax_Calculator.Scientific.resources
+C:\Users\user\source\repos\Tax Calculator\Tax Calculator\obj\Debug\Tax_Calculator.Tax.resources
+C:\Users\user\source\repos\Tax Calculator\Tax Calculator\obj\Debug\Tax Calculator.csprojAssemblyReference.cache
